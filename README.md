@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=Dizza19_frontend-project-46&metric=coverage)](https://sonarcloud.io/dashboard?id=Dizza19_frontend-project-46)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Dizza19_js-gendiff&metric=alert_status)](https://sonarcloud.io/summary/overall?id=Dizza19_js-gendiff)
+[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=Dizza19_js-gendiff&metric=coverage)](https://sonarcloud.io/dashboard?id=Dizza19_js-gendiff)
 
 ---
 
