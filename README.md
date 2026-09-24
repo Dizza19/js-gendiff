@@ -1,5 +1,4 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Dizza19/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dizza19/frontend-project-46/actions)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=Dizza19_frontend-project-46&metric=coverage)](https://sonarcloud.io/dashboard?id=Dizza19_frontend-project-46)
 
 ---
@@ -27,6 +26,6 @@
 ### 🚀 Установка
 
 ```bash
-git clone https://github.com/Dizza19/frontend-project-46.git
-cd frontend-project-46
+git clone https://github.com/Dizza19/js-gendiff.git
+cd js-gendiff
 make install
